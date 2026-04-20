@@ -13,3 +13,9 @@ evals/**/set-*/
 
 # Skill version snapshots
 inputs/**/versions/
+
+# client-avatar skill and all associated files
+skills/client-avatar.md
+inputs/client-avatar/
+evals/client-avatar/
+
